@@ -1,5 +1,7 @@
 # Krankenhaus-Zulassung – wenn eine Klinik mehr als einen Platz hat – Streamlit-Demo
 
+**[→ Demo live ausprobieren](https://sebastianhanisch-krankenhaus-zulassung-demo.streamlit.app/)**
+
 Elftes Stück der **Matching-Linie** der "Konzepte"-Reihe für die Website "Sebastian Hanisch – Operations Research und Machine Learning", zweite von vier Erweiterungen des Gale-Shapley-Asts (nach [stabile-mitbewohner-demo](https://github.com/sebastian-hanisch/stabile-mitbewohner-demo)) – inspiriert von Alvin Roths Arbeiten zu Marktdesign ohne Geld.
 
 **Gale-Shapley** paart 1:1. Hier kann jede Klinik **mehrere** Bewerber aufnehmen (Kapazität `q`, das Original-Beispiel von Gale & Shapley 1962, "College Admissions"). Deferred Acceptance funktioniert fast unverändert und findet **immer** eine stabile Zulassung – anders als bei Stabile Mitbewohner ist Existenz hier kein Thema. Die neuen Fragen sind andere: **welche** Klinik bleibt trotz freier Plätze leer (**Landklinikensatz**, jetzt in seiner reicheren Fassung), und kann eine Klinik durch **Untertreiben ihrer Kapazität** gewinnen? Die Antwort hängt überraschend davon ab, **wer vorschlägt** – ein Ergebnis, das Sönmez (1997, *JET*) zuerst bewiesen hat.
