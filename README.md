@@ -9,7 +9,8 @@ greedy-matching-demo (Wurzel: eine gewählte Zuordnung bleibt)                  
   ├─ gale-shapley-demo (Vorlieben statt Kosten, stabil)                            [gebaut]
   │    ├─ stabile-mitbewohner-demo (eine Gruppe statt zwei Seiten)                 [gebaut]
   │    ├─ krankenhaus-zulassung-demo (many-to-one, Kapazitäten)                    [dieses Stück]
-  │    └─ Top Trading Cycles → Nierentausch (Tausch ohne Geld)                    [geplant]
+  │    └─ top-trading-cycles-demo (Tausch ohne Geld, Wohnungsmarkt)                [gebaut]
+  │         └─ nierentausch-demo (Kompatibilität statt Präferenz, kurze Zyklen)    [gebaut]
   └─ online-matching-demo (Aufträge kommen nacheinander)                          [gebaut]
 ```
 

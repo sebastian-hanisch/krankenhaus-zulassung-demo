@@ -91,7 +91,7 @@ durch **Untertreiben ihrer Kapazität** gewinnen? Die Antwort hängt überrasche
 )
 st.caption(
     "Zweites von vier neuen Stücken der Matching-Linie (nach Stabile Mitbewohner), inspiriert von Alvin Roths Marktdesign-Arbeiten "
-    "(Sönmez 1997 bewies die Kapazitäts-Manipulation, die diese Demo zeigt). Als Nächstes folgen Top Trading Cycles und Nierentausch."
+    "(Sönmez 1997 bewies die Kapazitäts-Manipulation, die diese Demo zeigt). Danach folgen Top Trading Cycles und Nierentausch, beide inzwischen gebaut."
 )
 
 with st.expander("So funktioniert Deferred Acceptance mit Kapazitäten", expanded=True):
@@ -299,11 +299,11 @@ st.markdown(
 | Annahme | Was passiert, wenn sie verletzt ist | Wer setzt an |
 |---|---|---|
 | **"Erst auffüllen" ist die einzig sinnvolle Klinik-Präferenz über Mengen** | Andere responsive Erweiterungen sind denkbar und können zu anderen Manipulationsbefunden führen. | (außerhalb der Linie) |
-| **Paare, keine größeren Kreise/Ketten** | Manche Tauschbörsen (Wohnungen, Nieren) brauchen Zyklen statt Zulassungen. | **Top Trading Cycles → Nierentausch** (geplant) |
+| **Paare, keine größeren Kreise/Ketten** | Manche Tauschbörsen (Wohnungen, Nieren) brauchen Zyklen statt Zulassungen. | **Top Trading Cycles → Nierentausch** (gebaut) |
 | **Kapazität hat nur eine Obergrenze** | Quoten mit Unter- UND Obergrenze (z. B. Mindestgröße einer Abteilung) brauchen ein anderes Modell. | (außerhalb der Linie) |
 """
 )
-st.caption("Damit bleiben in der erweiterten Matching-Linie noch Top Trading Cycles und Nierentausch offen.")
+st.caption("Damit ist die vierteilige Erweiterung der Matching-Linie um den Gale-Shapley-Ast vollständig gebaut (Top Trading Cycles und Nierentausch folgten).")
 
 st.markdown("---")
 
